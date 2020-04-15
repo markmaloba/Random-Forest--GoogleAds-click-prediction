@@ -1,4 +1,4 @@
-# GoogleAds-click-prediction
+# (Random Forest) GoogleAds click prediction
 
 
 
